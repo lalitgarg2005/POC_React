@@ -1,2 +1,3 @@
-# POC_React
-REACT POC
+LEARN REACT
+npm install
+npm run
